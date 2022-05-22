@@ -1,6 +1,6 @@
 # About Shopin Manager 💻
 Do you have multiple stores? Are You sharing your inventory with others? Is your Shopify is not integrated with your database? Or you are facing product not found issue if your inventory is less? 🤔
-Worry not Shopin Manager is the best solution.
+Worry not Shopin Manager is the best solution for all of these problems.
 ### What Shopin Manager do?
 Let’s say you have thousands of products and hundred of thousand of variants.Isn't it hard to keep track on your low inventory product variants?
 **Shopin Manager will help you to set your low inventory variant quantity to zero so you never loose a sale.😊** So sit back and enjoy a glass of coke with some popcorns and let Shopin Manager do all the work for you. 👍
