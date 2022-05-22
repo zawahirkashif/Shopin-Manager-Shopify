@@ -43,7 +43,3 @@ pip install -r Requirnment.txt
 ```
 python main.py
 ```
-
-## Code Snippet
-
-
