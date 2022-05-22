@@ -26,6 +26,12 @@ Change your code with this condition
 
 ![Multi Vendor](https://github.com/zawahirkashif/Set-Inventory-Zero-If-Quantity-Less-Than-Two-Shopify/blob/b064e17afbe56d6ef2eab395ff874b1b0fc8a98d/images/carbon%20(2).png)
 
+# Build With
+
+[Python 🐍](https://www.python.org/)
+[Shopify Product API](https://shopify.dev/api/admin-rest/2021-10/resources/product)
+[Shopify Inventory API](https://shopify.dev/api/examples/product-inventory)
+
 # How To Start?
 
 Just your credentials in credentials.py and you are all good to go
