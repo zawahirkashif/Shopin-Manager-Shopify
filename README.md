@@ -28,9 +28,9 @@ Change your code with this condition
 
 # Build With
 
-[Python 🐍](https://www.python.org/)
-[Shopify Product API](https://shopify.dev/api/admin-rest/2021-10/resources/product)
-[Shopify Inventory API](https://shopify.dev/api/examples/product-inventory)
+- [Python 🐍](https://www.python.org/)
+- [Shopify Product API](https://shopify.dev/api/admin-rest/2021-10/resources/product)
+- [Shopify Inventory API](https://shopify.dev/api/examples/product-inventory)
 
 # How To Start?
 
