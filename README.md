@@ -38,7 +38,7 @@ python --version
 2- Clone the Repo
 
  ```
- $ git clone https://github.com/zawahirkashif/Shopin-Manager-Shopify.git
+ git clone https://github.com/zawahirkashif/Shopin-Manager-Shopify.git
  ```
 
 3- Install all the required packages
