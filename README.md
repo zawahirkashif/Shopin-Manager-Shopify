@@ -17,6 +17,60 @@ Shopin Manager is bulit with love ❤️ using python and Shopify API a referenc
 - [Shopify Inventory API](https://shopify.dev/api/examples/product-inventory)
 
 # Getting Started
+
+Let dive a little more deeper in the Shopin Manager To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Python
+```
+https://www.python.org/
+```
+- If you already have the python installed in your device check the version.
+```
+python --version
+```
+
+### Installation
+
+1- Open visual studio code or any code editor select a folder where you want to clone the repo
+
+2- Clone the Repo
+
+ ```
+ $ git clone https://github.com/zawahirkashif/Shopin-Manager-Shopify.git
+ ```
+
+3- Install all the required packages
+```
+pip install -r requirnments.txt
+```
+4- Create a private app on your Shopify Store
+```
+https://youtube.com/clip/UgkxHA0lZFT2LIwIi_cWc1W3ujoclTHLgs4N
+```
+5 Add API key
+```
+ API_KEY = ""
+```
+6 Add Admin API 
+```
+ ADMIN_API = ""
+```
+7 Add your store url e.g example.myshopify.com
+```
+  STORE_URL = ""
+```
+8 Add API version most probably it will be 2022-04
+```
+  API_VERSION = ""
+```
+9 Filter your products **oldest created** open the top most product and copy the id in the end of url
+```
+   LAST_PRODUCT_ID = ""
+```
+
+
 Right now it set variant inventory zero if the current variant quantity is less than 2 even you can set a condition if you want to keep track on specific vendors or if you don’t have any vendors it is completely of you just need change the code below.
 ![Actual](https://github.com/zawahirkashif/Set-Inventory-Zero-If-Quantity-Less-Than-Two-Shopify/blob/b064e17afbe56d6ef2eab395ff874b1b0fc8a98d/images/carbon.png)
 
