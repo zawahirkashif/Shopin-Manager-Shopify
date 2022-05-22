@@ -28,12 +28,6 @@ Change your code with this condition
 
 ![Multi Vendor](https://github.com/zawahirkashif/Set-Inventory-Zero-If-Quantity-Less-Than-Two-Shopify/blob/b064e17afbe56d6ef2eab395ff874b1b0fc8a98d/images/carbon%20(2).png)
 
-#### How To Create Requirnment.txt
-
-```
-pip freeze > Requirnment.txt
-```
-
 #### How To Install Requirnment.txt
 
 ```
