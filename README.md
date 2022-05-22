@@ -69,8 +69,6 @@ https://youtube.com/clip/UgkxHA0lZFT2LIwIi_cWc1W3ujoclTHLgs4N
 ```
    LAST_PRODUCT_ID = ""
 ```
-
-
 Right now it set variant inventory zero if the current variant quantity is less than 2 even you can set a condition if you want to keep track on specific vendors or if you don’t have any vendors it is completely of you just need change the code below.
 ![Actual](https://github.com/zawahirkashif/Set-Inventory-Zero-If-Quantity-Less-Than-Two-Shopify/blob/b064e17afbe56d6ef2eab395ff874b1b0fc8a98d/images/carbon.png)
 
@@ -92,14 +90,36 @@ Just your credentials in credentials.py and you are all good to go
 
 ![Creds](https://github.com/zawahirkashif/Shopin-Manager-Shopify/blob/5de66206478ea041f36ac8bbd36182c9f5c3fcd7/images/carbon%20(3).png)
 
-#### How To Install Requirnment.txt?
-
-```
-pip install -r requirnment.txt
-```
-
 #### How To Run This Code?
 
 ```
 python main.py
 ```
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
+5. Open a Pull Request
+
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+## Contact
+
+Your Name - [@SMZawahir1](https://twitter.com/SMZawahir1) - zawahirkashif@gmail.com
+
+Project Link: [https://github.com/zawahirkashif/Shopin-Manager-Shopify]([https://github.com/your_username/repo_name](https://github.com/zawahirkashif/Shopin-Manager-Shopify.git))
+
+
+
