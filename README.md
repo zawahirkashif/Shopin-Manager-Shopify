@@ -28,6 +28,8 @@ Change your code with this condition
 
 ![Multi Vendor](https://github.com/zawahirkashif/Set-Inventory-Zero-If-Quantity-Less-Than-Two-Shopify/blob/b064e17afbe56d6ef2eab395ff874b1b0fc8a98d/images/carbon%20(2).png)
 
+![Creds](https://github.com/zawahirkashif/Shopin-Manager-Shopify/blob/5de66206478ea041f36ac8bbd36182c9f5c3fcd7/images/carbon%20(3).png)
+
 #### How To Install Requirnment.txt
 
 ```
