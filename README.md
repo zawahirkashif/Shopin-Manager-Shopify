@@ -1,6 +1,4 @@
-# Shopin Manager 💻
-
-## About This Code
+# About Shopin Manager 💻
 
 Do you have multiple stores? Are You sharing your inventory with others? Is your Shopify is not integrated with your database? Or you are facing product not found issue if your inventory is less? 🤔
 
