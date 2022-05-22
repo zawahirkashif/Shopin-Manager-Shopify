@@ -20,7 +20,6 @@ class Product_Request:
                     
                     sku=access_inner_list_data['sku']
                     inventory_quantity = access_inner_list_data['inventory_quantity']
-                    #CHANGE VENDOR NAME IF ANY OTHER WISE REMOVE CONDITION "vendor_name == 'Adidas' and"
                     if vendor_name == 'Adidas' and inventory_quantity <=1:
                         inventory_quantity = 0
                         inventory_data=pd.DataFrame({'product':[product_id], 'inv_item_id':[inv_item_id],'sku':[sku], 'shopify_inventory':[inventory_quantity], 'vendor_name':[vendor_name]})
