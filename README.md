@@ -10,6 +10,8 @@ Worry not Shopin Manager is the best solution.
  
 Let’s say you have thousands of products and it is hard to keep a track on your low inventory product variants Shopin Manager will help you to set your low inventory variant quantity to zero so you never loose a sale. 
 
+So sit back and enjoy a glass of coke with some popcorns and let Shopin Manager do all the work for you 👍
+
 Right now it set variant inventory zero if the current variant quantity is less than 2 even you can set a condition if you want to keep track on specific vendors or if you don’t have any vendors it is completely of you just need change the code below.
 
 ![Actual](https://github.com/zawahirkashif/Set-Inventory-Zero-If-Quantity-Less-Than-Two-Shopify/blob/b064e17afbe56d6ef2eab395ff874b1b0fc8a98d/images/carbon.png)
